@@ -97,7 +97,8 @@ The results of the anaysis can be summarized as follows:
 
 - The average trip duration of casual customers is much higher than members. The difference is maximized from March until November. The average trip duration of members tend to be more consistent.
   
-![Weekly Ride Count-Members VS Casual](https://github.com/iftekhar-kabir/iftekhar-kabir-Documenting-Cyclistic-Bike-Usage-Patterns/assets/163831745/b43d82bf-69e8-4965-8f8e-78ab8d865d23)
+![Monthly Trip Duration- Members VS Casuals](https://github.com/iftekhar-kabir/iftekhar-kabir-Documenting-Cyclistic-Bike-Usage-Patterns/assets/163831745/5bb8da51-d110-4a94-9f89-c133a3c82ce0)
+
 
 - Weekly average distance between start and end station categorized by members and casual customers isn't significantly different enough to explain the discrepancy in trip durations.
 
